@@ -1,2 +1,2 @@
 hola
-Muy buenas chavales como estan, en este vidio veremos
+Muy buenas chavales como estan, en este vidio veremos como usar el git
